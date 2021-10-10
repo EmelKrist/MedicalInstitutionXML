@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patients xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance"> 
+	  
+	<patient id ="1">
+		<name>Fedorova Maria Alexandrovna</name>
+		<birth>06.06.1998</birth>
+		<policy>6190665912678251</policy>
+		<test>
+			<date>12.07.21</date>
+			<type>lgG</type>
+			<labID>2</labID>
+		</test>
+	</patient>
+	<patient id ="2">
+		<name>Smirnov Evgenii Ivanovich</name>
+		<birth>12.09.1982</birth>
+		<policy>1238649245015825</policy>
+		<test>
+			<date>12.05.2020</date>
+			<type>lgG</type>
+			<labID>2</labID>
+		</test>
+		<test>
+			<date>08.12.2021</date>
+			<type>lgM</type>
+			<labID>1</labID>
+		</test>
+	</patient>	
+	<patient id ="3">
+		<name>Kalinina Irina Mirolybovna</name>
+		<birth>01.03.1997</birth>
+		<policy>4678797267465746</policy>
+		<test>
+			<date>13.07.2019</date>
+			<type>lgM</type>
+			<labID>1</labID>
+		</test>
+	</patient>
+	<patient id ="4">
+		<name>Smirnova Elena Vladimirovna</name>
+		<birth>15.04.1987</birth>
+		<policy>2718462346464663</policy>
+		<test>
+			<date>19.08.2021</date>
+			<type>lgG</type>
+			<labID>2</labID>
+		</test>
+	</patient>
+	<patient id ="5">
+		<name>Alexeev Michail Alexandrovich</name>
+		<birth>16.07.1994</birth>
+		<policy>3274625624228912</policy>
+		<test>
+			<date>29.01.2020</date>
+			<type>lgG</type>
+			<labID>2</labID>
+		</test>
+	</patient>
+	<patient id ="6">
+		<name>Volkova Galina Alexeevna</name>
+		<birth>09.09.1991</birth>
+		<policy>2948790764452688</policy>
+		<test>
+			<date>09.12.2021</date>
+			<type>lgM</type>
+			<labID>1</labID>
+		</test>
+	</patient>
+	<patient id ="7">
+		<name>Vasiliev Ivan Ivanovich</name>
+		<birth>14.06.1897</birth>
+		<policy>9796126356728272</policy>
+		<test>
+			<date>28.11.2020</date>
+			<type>lgM</type>
+			<labID>1</labID>
+		</test>
+	</patient>
+	<patient id ="8">
+		<name>Egorov Matvei Kirillovich</name>
+		<birth>16.07.2001</birth>
+		<policy>4247663267426326</policy>
+		<test>
+			<date>10.10.2021</date>
+			<type>lgG</type>
+			<labID>2</labID>
+		</test>
+	</patient>
+	<patient id ="9">
+		<name>Kiseleva Marina Evgenevna</name>
+		<birth>21.10.1989</birth>
+		<policy>6432746892364723</policy>
+		<test>
+			<date>12.03.2019</date>
+			<type>lgM</type>
+			<labID>1</labID>
+		</test>
+	</patient>
+	<patient id ="10">
+		<name>Tarasov Egor Vladimirovich</name>
+		<birth>12.09.1992</birth>
+		<policy>2734243876678342</policy>
+		<test>
+			<date>13.08.2020</date>
+			<type>lgG</type>
+			<labID>2</labID>
+		</test>
+	</patient>
+</patients>
